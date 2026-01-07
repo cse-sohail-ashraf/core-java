@@ -12,6 +12,7 @@ class JavaApplication{
 		// student.deleteProject(12);
 		// student.readProject();
 		university.displayUniversityInfo();
+		
 		university.createCollege(college);
 		college.readDepartment();
 		university.deleteCollege(1001);
